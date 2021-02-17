@@ -1,0 +1,33 @@
+<link> rel="stylesheet" href="style.css"> </link>
+
+
+.Nav-about {
+   display: inline-block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+.Nav-Skills{
+    display: inline-block;
+    width: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+.Nav-Work {
+    display: block;
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    border: 1px solid blue;
+    background-color: yellow;
+}
+.Nav.Contact {
+width: 100px;
+height: 100px;
+padding: 5px;
+border: 1px solid blue;
+background-color: yellow;
+}
